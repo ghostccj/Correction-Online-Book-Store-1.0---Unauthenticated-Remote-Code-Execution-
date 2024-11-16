@@ -5,6 +5,7 @@
 This script was modified to run correctly in python 2 for the TryHackMe lesson called “Exploit Vulnerabilities”. 
 The exercise where the script will be performed is : 
   Task 5 Partical:Manual Exploitation
+  
 ![Task](https://github.com/user-attachments/assets/8b80d60d-9ae1-4c81-aa37-1738c32e17e3)
 
   
