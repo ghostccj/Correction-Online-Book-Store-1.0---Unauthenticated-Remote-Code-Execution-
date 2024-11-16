@@ -13,5 +13,5 @@ The exercise where the script will be performed is :
 ## Usage
 Run the script with:
 ````bash
-python2 script.py <ip-machine>
+python2 47887.py <ip-machine>
 
